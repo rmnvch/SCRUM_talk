@@ -6,6 +6,11 @@
   --font: sans-serif;
 }
 
+.make-it-pop h2, 
+.make-it-pop h3 {
+  color: #ffd801;
+}
+
 /* Timeline Container */
 
 /* Card container */
@@ -87,9 +92,9 @@
   position: absolute;
   width: 10px;
   height: 10px;
-  background: coral;
+  background: #ffd801;
   border-radius: 999px;
-  border: 3px solid coral;
+  border: 3px solid #ffd801;
 }
 
 /* text right if the card is even  */
